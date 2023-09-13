@@ -1,0 +1,12 @@
+{
+	"image": "oven/bun",
+	"forwardPorts": [3000],
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"pandy.bun",
+				"esbenp.prettier-vscode"
+			]
+		}
+	}
+}
